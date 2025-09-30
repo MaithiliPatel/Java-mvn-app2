@@ -10,8 +10,8 @@
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h2 class="text-center">Hello Everyone</h2>
-      <p class="text-center"> My Web App - SA-RDevOps-30thMar - poll scm! ... </p>
-      <p class="text-center"> Welcome to Hello World Project. I Hope you will enjoy the session!! </p>
+      <p class="text-center"> Welcome to Hello World Project!!!!!! ... </p>
+      <p class="text-center"> I Hope you will enjoy the session!! </p>
   </div>
 </body>
 </html>
